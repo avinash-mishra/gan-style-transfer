@@ -1,6 +1,6 @@
 # GAN-coupon-art
 
-Pytorch implementation of msg-net and style transfer. 
+Pytorch implementation of style transfer. 
 
 
 ### My Idea
